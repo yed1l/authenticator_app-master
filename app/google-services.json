@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101049797973",
+    "firebase_url": "https://fir-blog-1583778539578.firebaseio.com",
+    "project_id": "firebase-blog-1583778539578",
+    "storage_bucket": "firebase-blog-1583778539578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101049797973:android:1cac24aa30079b6d63b3dc",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101049797973-irdndlk9hig836dpnqse942n1ltdm734.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.smallacademy.authenticatorapp",
+            "certificate_hash": "a960f21f5e9a9bb316a3a324430fe93fe60408d3"
+          }
+        },
+        {
+          "client_id": "101049797973-s9na08nnp251o5h3flk5n414fv5u6mld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF9UPkk7Gq9sAvxfVDKvkbaW_gxIRWyOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101049797973-s9na08nnp251o5h3flk5n414fv5u6mld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
